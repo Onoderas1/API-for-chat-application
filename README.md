@@ -1,1 +1,1 @@
-# API-for-chat-application
+# API for chat application
